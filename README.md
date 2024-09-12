@@ -70,7 +70,7 @@
 ---
 
 ### 🌐 **Projects** 
-1. **PHconsult Web App (In Development):** A platform offering research assistance, integrating features like user authentication, service ordering, and review management. <!--Built with HTML, CSS, Node.js, and Firebase.-->
+1. **PHconsult Web App (In Development):** A platform offering research assistance, integrating features like user authentication, service ordering, and review management. Built with HTML, CSS, and Node.js <!--, and Firebase.-->
    
 2. **Gait Analysis Algorithm:** Developed an algorithm for gait analysis, improving prediction accuracy by 30%.
 
