@@ -1,5 +1,9 @@
 ## Hi there 👋
 I am studying MSc. Computer Science and I have a background in Biomedical Engineering. I love research in areas such as Data Science and AI. 
+
+I have 2+ years of experience, specializing in computational modeling, simulation, and data analysis. I enhanced research reliability by 30% through dataset expansion and developed innovative algorithms for gait analysis in my previous role. I am skilled in mathematical modeling, algorithm development, and data processing, with expertise in MATLAB, Python, Excel, and IBM SPSS. I am actively involved in cutting-edge projects like sensor fusion algorithms—a strong communicator and team player, with leadership experience. Let's connect and drive innovation together!
+
+Email: philipkone45@gmail.com 
 <!--
 **PhilipKone/PhilipKone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
