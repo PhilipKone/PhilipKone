@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am studying MSc. Computer Science, aspiring to become a fullstack developer, and I have a background in Biomedical Engineering. I love research in areas such as data science and AI. 
+I am studying MSc. Computer Science and I have a background in Biomedical Engineering. I love research in areas such as Data Science and AI. 
 <!--
 **PhilipKone/PhilipKone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
