@@ -1,7 +1,7 @@
 
 ## Hi there! 👋 Welcome to my GitHub Profile! 
 
-### I am an engineer and researcher specializing in **Data Science & AI**, with a background in **Biomedical Engineering** and currently studying Masters in Computer Science. My goal is to develop cutting-edge technologies and techniques to advance healthcare solutions. Let's connect and innovate together!
+### I am an engineer and researcher specializing in **Data Science & AI**. With a background in **Biomedical Engineering** and currently studying Masters in Computer Science, My goal is to develop cutting-edge technologies and techniques to advance healthcare solutions. Let's connect and innovate together!
 
 ---
 
