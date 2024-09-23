@@ -31,7 +31,7 @@
 ---
 
 
-### 📫 **How to reach me:**
+### 📫 **How to Reach Me:**
 - **Email:** [philipkone45@gmail.com](mailto:philipkone45@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/philip-kone/)
 
