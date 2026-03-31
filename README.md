@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to my GitHub Profile!
 
-### I am an engineer and a researcher specializing in **Data Science & AI**. With a background in **Biomedical Engineering** and currently studying Masters in Computer Science, my goal is to develop cutting-edge technologies and techniques to advance healthcare solutions. Let's connect and innovate together!
+### I am an engineer and a researcher specializing in **Data Science & AI**. With a background in **Biomedical Engineering** and **Computer Science**, my goal is to develop cutting-edge technologies and techniques to advance healthcare solutions. Let's connect and innovate together!
 
 ---
 
@@ -55,8 +55,11 @@
 - [PHconsult Web App (In Development)](https://philipkone.github.io/PHconsult/) - A platform offering research assistance, integrating features like user authentication, service ordering, and review management. Built with HTML, CSS, and Node.js.
 - [Gait Analysis Algorithm](https://github.com/PhilipKone/Predictive-Gait-Analysis-.git) - An algorithm for gait analysis, improving prediction accuracy by 30%.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilipKone&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PhilipKone&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Alternative since github-readme-stats and github-profile-trophy may fail due to CDN/HTTPS availability -->
+
+[![GitHub stars](https://img.shields.io/github/stars/PhilipKone?style=social)](https://github.com/PhilipKone)
+[![GitHub followers](https://img.shields.io/github/followers/PhilipKone?label=Followers&style=social)](https://github.com/PhilipKone?tab=followers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/PhilipKone/PhilipKone)](https://github.com/PhilipKone/PhilipKone)
 
 ---
 
