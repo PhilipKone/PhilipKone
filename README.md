@@ -59,7 +59,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/PhilipKone?style=for-the-badge&logo=github&labelColor=24292f&color=2ea44f)](https://github.com/PhilipKone)
 [![GitHub followers](https://img.shields.io/github/followers/PhilipKone?style=for-the-badge&logo=github&labelColor=24292f&color=0366d6)](https://github.com/PhilipKone?tab=followers)
-[![Top language](https://img.shields.io/github/languages/top/PhilipKone/PhilipKone?style=for-the-badge&logo=visual-studio-code&labelColor=24292f)]
+[![Public repos](https://img.shields.io/github/repos/PhilipKone?style=for-the-badge&logo=github&labelColor=24292f&color=8a2be2)](https://github.com/PhilipKone?tab=repositories)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/PhilipKone/PhilipKone?style=for-the-badge&logo=github&labelColor=24292f&color=10b981)](https://github.com/PhilipKone/PhilipKone/commits/master)
 
 ---
 
