@@ -68,6 +68,13 @@
   </a>
 </p>
 
+### 🛠️ **Recent GitHub Activity**
+
+<!-- Recent GitHub Activity:START -->
+<!-- Recent GitHub Activity:END -->
+
+<br/>
+
 <!--
 **PhilipKone/PhilipKone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
