@@ -70,8 +70,8 @@
 
 ### 🛠️ **Recent GitHub Activity**
 
-<!-- Recent GitHub Activity:START -->
-<!-- Recent GitHub Activity:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
