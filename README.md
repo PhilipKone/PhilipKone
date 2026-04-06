@@ -71,6 +71,7 @@
 ### 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Kone Code 1.0.0 Beta 1](https://github.com/PhilipKone/Kone-Code/releases/tag/v1.0.0-beta.1) in [PhilipKone/Kone-Code](https://github.com/PhilipKone/Kone-Code)
 <!--END_SECTION:activity-->
 
 <br/>
