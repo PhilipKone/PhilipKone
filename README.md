@@ -1,4 +1,7 @@
 ## Hi there! 👋 Welcome to my GitHub Profile!
+![Version](https://img.shields.io/github/v/release/PhilipKone/Kone-Code?include_prereleases&color=blue)
+![Deployment](https://img.shields.io/github/deployments/PhilipKone/Kone-Code/github-pages)
+![License](https://img.shields.io/github/license/PhilipKone/Kone-Code)
 
 ### I am an engineer and a researcher specializing in **Data Science & AI**. With a background in **Biomedical Engineering** and **Computer Science**, my goal is to develop cutting-edge technologies and techniques to advance healthcare solutions. Let's connect and innovate together!
 
