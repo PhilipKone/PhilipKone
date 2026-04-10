@@ -71,7 +71,7 @@
 ### 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/PhilipKone/Kone-Code/issues/1) in [PhilipKone/Kone-Code](https://github.com/PhilipKone/Kone-Code)
+1. 🚀 Published release [Predictive Gait Analysis](https://github.com/PhilipKone/Predictive-Gait-Analysis-/releases/tag/v1.0.0) in [PhilipKone/Predictive-Gait-Analysis-](https://github.com/PhilipKone/Predictive-Gait-Analysis-)
 <!--END_SECTION:activity-->
 
 <br/>
