@@ -71,7 +71,7 @@
 ### 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Predictive Gait Analysis](https://github.com/PhilipKone/Predictive-Gait-Analysis-/releases/tag/v1.0.0) in [PhilipKone/Predictive-Gait-Analysis-](https://github.com/PhilipKone/Predictive-Gait-Analysis-)
+1. 🚀 Published release [Kone Kids](https://github.com/PhilipKone/Kone-Kids/releases/tag/v1.0) in [PhilipKone/Kone-Kids](https://github.com/PhilipKone/Kone-Kids)
 <!--END_SECTION:activity-->
 
 <br/>
