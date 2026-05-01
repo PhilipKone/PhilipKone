@@ -71,7 +71,7 @@
 ### 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kone Kids](https://github.com/PhilipKone/Kone-Kids/releases/tag/v1.0) in [PhilipKone/Kone-Kids](https://github.com/PhilipKone/Kone-Kids)
+1. 🚀 Published release [v1.0.0 - Kone Digital Launch](https://github.com/PhilipKone/Kone-Digital/releases/tag/v1.0.0) in [PhilipKone/Kone-Digital](https://github.com/PhilipKone/Kone-Digital)
 <!--END_SECTION:activity-->
 
 <br/>
