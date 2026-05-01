@@ -71,7 +71,7 @@
 ### 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 - Kone Digital Launch](https://github.com/PhilipKone/Kone-Digital/releases/tag/v1.0.0) in [PhilipKone/Kone-Digital](https://github.com/PhilipKone/Kone-Digital)
+1. 🚀 Published release [Initial Release](https://github.com/PhilipKone/Kone-Shop/releases/tag/v1.0.0) in [PhilipKone/Kone-Shop](https://github.com/PhilipKone/Kone-Shop)
 <!--END_SECTION:activity-->
 
 <br/>
