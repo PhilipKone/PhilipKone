@@ -71,7 +71,7 @@
 ### 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Kone Kids v1.1.0](https://github.com/PhilipKone/Kone-Kids/releases/tag/v1.1.0) in [PhilipKone/Kone-Kids](https://github.com/PhilipKone/Kone-Kids)
+1. 🚀 Published release [v1.3.0 - Interactive 3D WebGL Workbench & Curved Wiring Simulator](https://github.com/PhilipKone/Kone-Lab/releases/tag/v1.3) in [PhilipKone/Kone-Lab](https://github.com/PhilipKone/Kone-Lab)
 <!--END_SECTION:activity-->
 
 <br/>
