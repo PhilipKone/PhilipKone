@@ -52,7 +52,7 @@
 
 ### 🌟 **Featured Projects**
 
-- [PHconsult Web App (In Development)](https://philipkone.github.io/PHconsult/) - A platform offering research assistance, integrating features like user authentication, service ordering, and review management. Built with HTML, CSS, and Node.js.
+<!-- [PHconsult Web App (In Development)](https://philipkone.github.io/PHconsult/) - A platform offering research assistance, integrating features like user authentication, service ordering, and review management. Built with HTML, CSS, and Node.js.-->
 - [Gait Analysis Algorithm](https://github.com/PhilipKone/Predictive-Gait-Analysis-.git) - An algorithm for gait analysis, improving prediction accuracy by 30%.
 
 ---
