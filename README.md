@@ -71,7 +71,7 @@
 ### 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0 - Interactive 3D WebGL Workbench & Curved Wiring Simulator](https://github.com/PhilipKone/Kone-Lab/releases/tag/v1.3) in [PhilipKone/Kone-Lab](https://github.com/PhilipKone/Kone-Lab)
+1. 🚀 Published release [v1.2 - Aesthetic Overhaul & Dynamic UI](https://github.com/PhilipKone/Kone-Academy/releases/tag/v1.2) in [PhilipKone/Kone-Academy](https://github.com/PhilipKone/Kone-Academy)
 <!--END_SECTION:activity-->
 
 <br/>
